@@ -32,13 +32,11 @@ I specialize in architecting high-throughput backend systems, resilient database
 [![Backend API](https://img.shields.io/badge/Backend_API-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-backend)
 [![Frontend Client](https://img.shields.io/badge/Frontend_Client-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-frontend)
 
-- **Enterprise Backend Engine (93+ REST Endpoints):** Built with **Node.js 24**, **Express 5**, and strict **TypeScript**, powered by **Prisma 7** multi-file modular schemas and native **PostgreSQL 16** connection pooling (`@prisma/adapter-pg`).
-- **Automated Financial Pipeline:** Integrated **Stripe Checkout** with cryptographic webhook signature verification (`constructEvent`), paired with a multi-channel front-desk cash/bKash/Nagad fee collection system emitting immutable sequential receipts.
-- **Algorithmic Routine Scheduler:** Implemented a 3-dimensional conflict-resolution engine that prevents batch schedule overlaps, teacher time clashes, and classroom double-booking across 7-day academic weeks.
-- **Zero Cloud Storage PDF Subsystem:** Built an in-memory streaming document generator (`PDFKit`, ~15ms render) producing official invoices, timetables, and student report cards with zero cloud storage costs.
-- **High-Performance Client:** Developed a **Next.js 16 (App Router)** and **React 19** interface featuring HttpOnly cookie token management, silent-refresh concurrency queuing, and cross-tab session synchronization (`BroadcastChannel`).
+- ⚡ **Scalable Backend:** 93+ REST API endpoints built with **Node.js 24**, **Express 5**, and strict **TypeScript**, powered by **Prisma 7** modular schemas and **PostgreSQL 16** connection pooling.
+- 💳 **Billing & Algorithms:** Automated **Stripe** webhook reconciliation, multi-channel offline fee receipts, conflict-free timetable scheduling, and zero-storage in-memory PDF generation (`PDFKit`, ~15ms).
+- 🖥️ **Reactive Client:** High-concurrency **Next.js 16 (App Router)** & **React 19** frontend with HttpOnly cookie auth, silent token refresh queues, and cross-tab session synchronization (`BroadcastChannel`).
 
-**Technologies:** `Node.js 24` • `Express.js 5` • `TypeScript` • `PostgreSQL 16` • `Prisma 7` • `Next.js 16` • `React 19` • `Tailwind CSS v4` • `Stripe API` • `Redis` • `Zod` • `TanStack Query`
+`Node.js 24` • `Express.js 5` • `TypeScript` • `PostgreSQL 16` • `Prisma 7` • `Next.js 16` • `React 19` • `Tailwind CSS v4` • `Stripe API` • `Redis` • `Zod` • `TanStack Query`
 
 ---
 
@@ -49,13 +47,11 @@ I specialize in architecting high-throughput backend systems, resilient database
 [![Mobile App Repository](https://img.shields.io/badge/Mobile_App-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/RoktoSheba-Blood-Donation-App)
 [![Download Standalone APK](https://img.shields.io/badge/Download_APK-Standalone_Release_v1.0-047857?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/6SI2v3opQ3LcFzIIte3nhA0rf1kbS56IlTEKrooWtiU.apk)
 
-- **Mobile Architecture:** Built with **React Native 0.81** and **Expo SDK 54** leveraging **Expo Router** for file-based typed routing, Hermes JS engine, and **Zustand v5** atomic stores for zero re-render cascades.
-- **Privacy-Preserving Cloud Backend:** Backed by **Supabase (PostgreSQL 15)** with strict **Row-Level Security (RLS)** policies that shield donors' residential coordinates and personal phone numbers until mutual request verification.
-- **Geospatial & Hospital Discovery:** Integrated **OpenStreetMap Nominatim REST API** for real-time facility search, autocomplete, and one-tap emergency hospital calling across all 8 administrative divisions and 64 districts.
-- **Automated Medical Cooldown Engine:** Enforces a 90-day biological donation cooldown calculator with automatic badge transitions and countdown timers.
-- **Production Build:** Compiled a lightweight, standalone universal ARM Android APK (~35 MB) via **EAS Build** with architecture splitting (`arm64-v8a`, `armeabi-v7a`).
+- 📱 **Mobile Architecture:** Built with **React Native 0.81** and **Expo SDK 54** utilizing **Expo Router** typed routing, Hermes JS engine, and **Zustand v5** atomic state stores for zero re-render cascades.
+- 🛡️ **Privacy & Cloud Backend:** **Supabase (PostgreSQL 15)** with strict **Row-Level Security (RLS)** shielding donor residential GPS and personal phone numbers until mutual coordination.
+- 📍 **Geospatial & Release:** **OpenStreetMap Nominatim REST API** integration for nationwide hospital autocomplete, 90-day medical cooldown tracking, and a lightweight standalone APK (~35 MB via EAS Build).
 
-**Technologies:** `React Native` • `Expo SDK 54` • `TypeScript` • `Supabase (PostgreSQL)` • `Row-Level Security (RLS)` • `NativeWind` • `TanStack Query` • `Zustand` • `OpenStreetMap API` • `EAS Build`
+`React Native` • `Expo SDK 54` • `TypeScript` • `Supabase (PostgreSQL)` • `Row-Level Security (RLS)` • `NativeWind` • `TanStack Query` • `Zustand` • `OpenStreetMap API` • `EAS Build`
 
 ---
 
