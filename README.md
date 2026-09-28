@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="abrar_profile.png" width="140" style="border-radius: 50%;" alt="Abrar Yeasir" />
-  
-  # Hi there, I'm Abrar Yeasir 👋
+
+# Hi there, I'm Abrar Yeasir 👋
 
 ### Software Engineer | Backend Architecture & Distributed Systems
 
