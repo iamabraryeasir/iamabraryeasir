@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="IMG-20251023-WA0020.jpg.jpeg" width="200" alt="Abrar Yeasir" style="border-radius: 50%; border: 3px solid #38B2AC; margin-bottom: 20px;" />
+  <img src="abrar_profile.jpeg" width="200" alt="Abrar Yeasir" style="border-radius: 50%; border: 3px solid #38B2AC; margin-bottom: 20px;" />
   
   # Hi there, I'm Abrar Yeasir 👋
 
