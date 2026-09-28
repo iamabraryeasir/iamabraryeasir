@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abrar Yeasir 👋
 
-### Software Engineer | Backend Architecture & Distributed Systems
+### Software Engineer | Backend Architecture
 
 I specialize in architecting high-throughput backend systems, resilient database schemas, and end-to-end full-stack applications. Passionate about solving complex domain logic, optimizing relational data pipelines, and transforming manual offline operations into scalable digital platforms.
 
