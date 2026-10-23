@@ -6,6 +6,7 @@
 
 I specialize in architecting high-throughput backend systems, resilient database schemas, and end-to-end full-stack applications. Passionate about solving complex domain logic, optimizing relational data pipelines, and transforming manual offline operations into scalable digital platforms.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abraryeasir.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamabraryeasir/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabraryeasir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir)
