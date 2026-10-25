@@ -2,66 +2,132 @@
 
 # Hi there, I'm Abrar Yeasir 👋
 
-### Software Engineer | Backend Architecture
-
-I specialize in architecting high-throughput backend systems, resilient database schemas, and end-to-end full-stack applications. Passionate about solving complex domain logic, optimizing relational data pipelines, and transforming manual offline operations into scalable digital platforms.
+### Software Engineer | Full-Stack & AI Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abraryeasir.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamabraryeasir/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabraryeasir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabraryeasir@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801860700650)
+
+<br/>
+
+📍 **Chattogram, Bangladesh** &nbsp;|&nbsp; 🎓 **Premier University (B.Sc. in CSE, 6th Sem)** &nbsp;|&nbsp; 📞 **+880 1860700650**
 
 </div>
 
 ---
 
-### 💻 Technical Arsenal
+### 📌 About Me
 
-| Category                | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)                                                                                                                                                                                                                                                                                                                                       |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)                                                                                                                                                                                                                                                              |
-| **Frontend & Mobile**   | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) |
-| **Libraries & APIs**    | ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)                                                                                                                                                                                                                                                                                                                     |
-| **ORMs & BaaS**         | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Tools & DevOps**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+Passionate Software Engineering student and full-stack developer with experience building production-grade web and cross-platform mobile applications. Skilled in translating complex business requirements into scalable architectures, clean REST APIs, and intuitive user interfaces. Actively seeking junior software engineering roles and freelance opportunities to deliver high-impact, real-world solutions, with a strong enthusiasm for exploring AI-integrated software development.
 
 ---
 
-### 🏆 Featured Engineering Projects
+### 💻 Technical Stack
 
-#### 🏢 Coaching Center Management System — Full-Stack Enterprise Platform
+#### 🌐 Languages
 
-> **An end-to-end academic operations and financial management platform automating admissions, multi-dimensional scheduling, fee invoicing, and merit grading for coaching institutes.**
+<p>
+  <img src="./icons/javascript.svg" alt="JavaScript" width="20" height="20" valign="middle" /> <b>JavaScript (ES6+)</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/typescript.svg" alt="TypeScript" width="20" height="20" valign="middle" /> <b>TypeScript</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/python.svg" alt="Python" width="20" height="20" valign="middle" /> <b>Python</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/sql.svg" alt="SQL" width="20" height="20" valign="middle" /> <b>SQL</b>
+</p>
 
-[![Backend API](https://img.shields.io/badge/Backend_API-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-backend)
-[![Frontend Client](https://img.shields.io/badge/Frontend_Client-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-frontend)
+#### 🧠 Backend & AI Systems
 
-- ⚡ **Scalable Backend:** 93+ REST API endpoints built with **Node.js 24**, **Express 5**, and strict **TypeScript**, powered by **Prisma 7** modular schemas and **PostgreSQL 16** connection pooling.
-- 💳 **Billing & Algorithms:** Automated **Stripe** webhook reconciliation, multi-channel offline fee receipts, conflict-free timetable scheduling, and zero-storage in-memory PDF generation (`PDFKit`, ~15ms).
-- 🖥️ **Reactive Client:** High-concurrency **Next.js 16 (App Router)** & **React 19** frontend with HttpOnly cookie auth, silent token refresh queues, and cross-tab session synchronization (`BroadcastChannel`).
+<p>
+  <img src="./icons/nodejs.svg" alt="Node.js" width="20" height="20" valign="middle" /> <b>Node.js</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/bun.svg" alt="Bun" width="20" height="20" valign="middle" /> <b>Bun</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/express.svg" alt="Express.js" width="20" height="20" valign="middle" /> <b>Express.js</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/langgraph-logo.svg" alt="LangGraph.js" width="32" height="18" valign="middle" /> <b>LangGraph.js</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/gemini.svg" alt="Gemini API" width="20" height="20" valign="middle" /> <b>Gemini API</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/autonomousagents.svg" alt="Autonomous Agents" width="20" height="20" valign="middle" /> <b>Autonomous Agents</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/rag.svg" alt="RAG" width="20" height="20" valign="middle" /> <b>RAG</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/vectordb.svg" alt="Vector DB" width="20" height="20" valign="middle" /> <b>Vector DB</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/postgresql.svg" alt="PostgreSQL" width="20" height="20" valign="middle" /> <b>PostgreSQL</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/redis.svg" alt="Redis" width="20" height="20" valign="middle" /> <b>Redis</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/prisma.svg" alt="Prisma ORM" width="20" height="20" valign="middle" /> <b>Prisma ORM</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/inngest.svg" alt="Inngest" width="20" height="20" valign="middle" /> <b>Inngest</b>
+</p>
 
-`Node.js 24` • `Express.js 5` • `TypeScript` • `PostgreSQL 16` • `Prisma 7` • `Next.js 16` • `React 19` • `Tailwind CSS v4` • `Stripe API` • `Redis` • `Zod` • `TanStack Query`
+#### 🎨 Frontend & Mobile
+
+<p>
+  <img src="./icons/react.svg" alt="React.js" width="20" height="20" valign="middle" /> <b>React.js</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/nextjs.svg" alt="Next.js" width="20" height="20" valign="middle" /> <b>Next.js (App Router)</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/react.svg" alt="React Native" width="20" height="20" valign="middle" /> <b>React Native</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <b>Expo</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/tailwind.svg" alt="Tailwind CSS" width="20" height="20" valign="middle" /> <b>Tailwind CSS</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/tanstack.svg" alt="TanStack Query" width="20" height="20" valign="middle" /> <b>TanStack Query</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/motion.svg" alt="Motion" width="26" height="14" valign="middle" /> <b>Motion</b>
+</p>
+
+#### 🚀 DevOps, Cloud & Tools
+
+<p>
+  <img src="./icons/docker.svg" alt="Docker" width="20" height="20" valign="middle" /> <b>Docker</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/git.svg" alt="Git" width="20" height="20" valign="middle" /> <b>Git</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/githubactions.svg" alt="GitHub Actions" width="20" height="20" valign="middle" /> <b>GitHub Actions</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/postman.svg" alt="Postman" width="20" height="20" valign="middle" /> <b>Postman</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/linux.svg" alt="Linux" width="20" height="20" valign="middle" /> <b>Linux</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/supabase.svg" alt="Supabase" width="20" height="20" valign="middle" /> <b>Supabase</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/upstash.svg" alt="Upstash" width="16" height="21" valign="middle" /> <b>Upstash</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/nginx.svg" alt="Nginx" width="20" height="20" valign="middle" /> <b>Nginx</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/cloudflare.svg" alt="Cloudflare" width="20" height="20" valign="middle" /> <b>Cloudflare</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="./icons/stripe.svg" alt="Stripe" width="20" height="20" valign="middle" /> <b>Stripe</b>
+</p>
 
 ---
 
-#### 🩸 RoktoSheba (রক্তসেবা) — Emergency Blood Donation & Healthcare Mobile Platform
+### 🏆 Projects & Engineering Experience
 
-> **A production-ready mobile platform connecting emergency blood recipients and voluntary donors across all 64 districts of Bangladesh in real-time.**
+#### 🏢 Full-Stack Coaching Center Management System
 
-[![Mobile App Repository](https://img.shields.io/badge/Mobile_App-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/RoktoSheba-Blood-Donation-App)
-[![Download Standalone APK](https://img.shields.io/badge/Download_APK-Standalone_Release_v1.0-047857?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/6SI2v3opQ3LcFzIIte3nhA0rf1kbS56IlTEKrooWtiU.apk)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://coaching-system-frontend.vercel.app/)
+[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-frontend)
+[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabraryeasir/coaching-center-management-system-backend)
 
-- 📱 **Mobile Architecture:** Built with **React Native 0.81** and **Expo SDK 54** utilizing **Expo Router** typed routing, Hermes JS engine, and **Zustand v5** atomic state stores for zero re-render cascades.
-- 🛡️ **Privacy & Cloud Backend:** **Supabase (PostgreSQL 15)** with strict **Row-Level Security (RLS)** shielding donor residential GPS and personal phone numbers until mutual coordination.
-- 📍 **Geospatial & Release:** **OpenStreetMap Nominatim REST API** integration for nationwide hospital autocomplete, 90-day medical cooldown tracking, and a lightweight standalone APK (~35 MB via EAS Build).
+- **Scalable Operations Platform:** Architected a full-scale institutional operations platform featuring 93 REST endpoints, strict schema validation, multi-persona RBAC (Admin, Teacher, Student), and a 7-day collision-free routine scheduling matrix.
+- **In-Memory Streaming Document Engine:** Developed a zero-cloud in-memory streaming document engine using `PDFKit` that dynamically synthesizes official invoices and grade cards in under 15ms.
+- **Dual-Channel Financial Pipeline:** Integrated a dual-channel financial pipeline combining Stripe Checkout sessions with automated local mobile financial services (bKash/Nagad) and Redis OTP state management.
 
-`React Native` • `Expo SDK 54` • `TypeScript` • `Supabase (PostgreSQL)` • `Row-Level Security (RLS)` • `NativeWind` • `TanStack Query` • `Zustand` • `OpenStreetMap API` • `EAS Build`
+`Next.js` • `React` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma ORM` • `Redis` • `Stripe` • `Docker`
 
 ---
 
-### 📊 GitHub Activity
+#### 🤖 CashPilot AI – Autonomous SME Financial Intelligence
 
-<div align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=iamabraryeasir&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" alt="Abrar's GitHub Stats" style="max-width: 100%;" />
-</div>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sme-finance-copilot-ultron.vercel.app)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cash_pilot_ai_bot)
+
+- **Autonomous Financial Operating System:** Engineered an autonomous agentic financial operating system with deterministic mathematical safety, executing 30-day rolling cash runway forecasts and aggregations exclusively in TypeScript and PostgreSQL to prevent LLM calculation drift.
+- **Multi-Tool Cyclical State Machine:** Architected a cyclical multi-tool agent state machine using `LangGraph.js` and `Gemini 3.5 Flash` bound to 8 backend tools with automated failover to Groq Llama 3.3.
+- **Omni-Channel Telegram Integration:** Built an omni-channel Telegram bot (`@cash_pilot_ai_bot`) delivering sub-3-second receipt and invoice OCR parsing, syncing in real-time with the Next.js 16 web management console.
+
+`Next.js 16` • `LangGraph.js` • `Gemini API` • `Bun` • `Prisma` • `PostgreSQL` • `Redis` • `Inngest`
+
+---
+
+### 🎖️ Honors & Achievements
+
+- 🥇 **1st Runner Up – ICT Olympiad Bangladesh (2023):** Secured national placement in a prestigious competitive technology Olympiad, demonstrating algorithmic problem-solving and rapid debugging capabilities.
+
+---
+
+### 🎓 Education
+
+- **Premier University** — Chattogram, Bangladesh  
+  **B.Sc. in Computer Science and Engineering** | _Current Student (6th Semester)_
+
+---
+
+### 📬 Get In Touch
+
+- 🌐 **Portfolio:** [abraryeasir.vercel.app](https://abraryeasir.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/iamabraryeasir](https://www.linkedin.com/in/iamabraryeasir/)
+- 🐙 **GitHub:** [github.com/iamabraryeasir](https://github.com/iamabraryeasir)
+- 📧 **Email:** [iamabraryeasir@gmail.com](mailto:iamabraryeasir@gmail.com)
+- 📱 **Phone / WhatsApp:** [+880 1860700650](https://wa.me/8801860700650)
+- 📍 **Location:** Chattogram, Bangladesh
