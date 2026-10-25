@@ -20,7 +20,7 @@
 
 ### 📌 About Me
 
-Passionate Software Engineering student and full-stack developer with experience building production-grade web and cross-platform mobile applications. Skilled in translating complex business requirements into scalable architectures, clean REST APIs, and intuitive user interfaces. Actively seeking junior software engineering roles and freelance opportunities to deliver high-impact, real-world solutions, with a strong enthusiasm for exploring AI-integrated software development.
+Full-stack software engineer and Computer Science undergraduate specializing in backend architecture, high-performance APIs, and AI-integrated systems. I build production-grade web applications and autonomous agentic workflows that bridge complex business logic with clean system design. Passionate about turning robust backend infrastructure and innovative AI concepts into real-world software solutions.
 
 ---
 
